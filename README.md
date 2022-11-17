@@ -14,4 +14,11 @@
 
 - pip install requirements.txt
 
-- enjoy!
+
+## to play:
+
+- activate 
+- python rpk.py 
+
+
+- enjoy! Xx

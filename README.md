@@ -9,15 +9,17 @@
 ## Dependancies
 
 - install pyenv 2.3.6-1-gad6a9507 or equivalent :)
-- activate your venv
+
 - pyenv install python version 3.10.5
+
+- activate your venv
 
 - pip install requirements.txt
 
 
 ## to play:
 
-- activate 
+- activate !!
 - python rpk.py 
 
 
